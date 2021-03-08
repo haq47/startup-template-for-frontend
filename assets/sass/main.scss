@@ -1,0 +1,40 @@
+// Utils Loads 
+@import "utils/_variables";
+@import "utils/_helper";
+@import "utils/_mixins";
+@import "utils/_functions";
+
+
+
+// base load 
+@import "base/_reset";
+@import "base/_typography";
+
+
+// Components Load 
+@import "components/_buttons";
+@import "components/_carousel";
+
+
+// Layouts Load
+@import "layouts/_header";
+@import "layouts/_menu";
+@import "layouts/_grid";
+@import "layouts/_forms";
+@import "layouts/_sidebar";
+@import "layouts/_footer";
+
+
+// Pages Load
+@import "pages/_home";
+
+
+// Themes Load 
+@import "themes/_themes";
+@import "themes/_admin";
+
+
+// Vendors Load
+@import "vendors/_bootstrap";
+
+
